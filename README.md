@@ -6,15 +6,15 @@ we are going to use an annotated dataset(https://www.kaggle.com/shayanfazeli/hea
 
 **MIT-BIH Arrhythmia dataset :**
 
-Number of Categories: 5
-Number of Samples: 109446
-Sampling Frequency: 125Hz
-Data Source: Physionet’s MIT-BIH Arrhythmia Dataset
-Classes: [’N’: 0, ‘S’: 1, ‘V’: 2, ‘F’: 3, ‘Q’: 4]  
+* Number of Categories: 5
+* Number of Samples: 109446
+* Sampling Frequency: 125Hz
+* Data Source: Physionet’s MIT-BIH Arrhythmia Dataset
+* Classes: [’N’: 0, ‘S’: 1, ‘V’: 2, ‘F’: 3, ‘Q’: 4]  
 
 **The PTB Diagnostic ECG Database**
 
-Number of Samples: 14552
-Number of Categories: 2 ( Normal vs Abnomal)
-Sampling Frequency: 125Hz
-Data Source: Physionet’s PTB Diagnostic Database
+* Number of Samples: 14552
+* Number of Categories: 2 ( Normal vs Abnomal)
+* Sampling Frequency: 125Hz
+* Data Source: Physionet’s PTB Diagnostic Database
